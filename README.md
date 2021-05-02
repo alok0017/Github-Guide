@@ -25,7 +25,7 @@ $ git init -b main
 
 11.	$ git remote add origin  <REMOTE_URL> 
 
-12.	# Sets the new remote
+12.	Sets the new remote
 
 13.	$ git remote -v
 # Verifies the new remote URL
@@ -36,10 +36,11 @@ $ git init -b main
 --------------------------------
 # for merging and fetching the github 
 
-git fetch origin main
-git merge origin master
+- git fetch origin main
 
-# 
+- git merge origin master
+
+ 
 After to wrote this code I received other error: (non-fast-forward)
 
 I write this code:
